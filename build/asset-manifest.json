@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e671ee8b.css",
+    "main.js": "/static/js/main.d9a8fda5.js",
+    "static/media/ambuone.png": "/static/media/ambuone.f7c932bd0322b4e29e3f.png",
+    "static/media/ambutwo.png": "/static/media/ambutwo.47454d51b65bbdfbbc4a.png",
+    "static/media/ambuthree.png": "/static/media/ambuthree.cdae9259c66940af2a45.png",
+    "static/media/banner.png": "/static/media/banner.535658fd73d62c7b5ad6.png",
+    "static/media/profile.png": "/static/media/profile.1aced5af0b153dd9990a.png",
+    "static/media/nurseavatar.png": "/static/media/nurseavatar.6269e9268bbda4077646.png",
+    "static/media/doctoravatar.png": "/static/media/doctoravatar.47004e05142df94da262.png",
+    "static/media/admin.jpg": "/static/media/admin.4f5a6a2e3f62f14768a9.jpg",
+    "index.html": "/index.html",
+    "main.e671ee8b.css.map": "/static/css/main.e671ee8b.css.map",
+    "main.d9a8fda5.js.map": "/static/js/main.d9a8fda5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e671ee8b.css",
+    "static/js/main.d9a8fda5.js"
+  ]
+}
